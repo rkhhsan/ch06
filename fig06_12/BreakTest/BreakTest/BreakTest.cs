@@ -19,6 +19,8 @@ public class BreakTest
       Console.WriteLine( "\nBroke out of loop at count = {0}", count );
       Console.WriteLine("\nTecle qualquer tecla para finalizar...");
       Console.ReadKey();
+      Console.WriteLine("\nTecle qualquer tecla para finalizar...");
+      Console.ReadKey();
    } // end Main
 } // end class BreakTest
 
