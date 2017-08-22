@@ -21,6 +21,8 @@ public class BreakTest
       Console.ReadKey();
       Console.WriteLine("\nTecle qualquer tecla para finalizar...");
       Console.ReadKey();
+      Console.WriteLine("\nTecle qualquer tecla para finalizar...");
+      Console.ReadKey();
    } // end Main
 } // end class BreakTest
 
