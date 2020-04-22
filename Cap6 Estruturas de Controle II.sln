@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileCounter", "fig06_01\WhileCounter\WhileCounter\WhileCounter.csproj", "{ACA8D1E7-64F6-4593-8144-D2DECF4B8BED}"
 EndProject
@@ -22,8 +22,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicalOperators", "fig06_18\LogicalOperators\LogicalOperators\LogicalOperators.csproj", "{C4CB9B0D-754F-44CE-81B4-E6D92B0244E5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExCap6", "ExCap6\ExCap6.csproj", "{87109991-B56B-46EA-8E1C-66E426903F51}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExCap06", "ExCap06\ExCap06.csproj", "{69DB0F70-0805-4D03-BB5B-1119EA02FD8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,10 +69,6 @@ Global
 		{87109991-B56B-46EA-8E1C-66E426903F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87109991-B56B-46EA-8E1C-66E426903F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87109991-B56B-46EA-8E1C-66E426903F51}.Release|Any CPU.Build.0 = Release|Any CPU
-		{69DB0F70-0805-4D03-BB5B-1119EA02FD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{69DB0F70-0805-4D03-BB5B-1119EA02FD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{69DB0F70-0805-4D03-BB5B-1119EA02FD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{69DB0F70-0805-4D03-BB5B-1119EA02FD8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
