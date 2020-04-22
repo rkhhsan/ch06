@@ -12,6 +12,8 @@ public class ForCounter
          Console.Write( "{0}  ", counter );
 
       Console.WriteLine(); // output a newline
+      Console.WriteLine("\nTecle qualquer tecla para finalizar...");
+      Console.ReadKey();
    } // end Main
 } // end class ForCounter
 
